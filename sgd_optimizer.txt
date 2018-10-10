@@ -1,0 +1,69 @@
+Epoch: [1/10], Step: [101/625], Validation Acc: 0.04, Train Acc: 62.505
+Epoch: [1/10], Step: [201/625], Validation Acc: 1.64, Train Acc: 62.825
+Epoch: [1/10], Step: [301/625], Validation Acc: 1.54, Train Acc: 62.835
+Epoch: [1/10], Step: [401/625], Validation Acc: 1.96, Train Acc: 63.0
+Epoch: [1/10], Step: [501/625], Validation Acc: 3.98, Train Acc: 63.435
+Epoch: [1/10], Step: [601/625], Validation Acc: 6.18, Train Acc: 63.93
+Average accuracy is2.55666666667
+Epoch: [2/10], Step: [101/625], Validation Acc: 10.98, Train Acc: 64.835
+Epoch: [2/10], Step: [201/625], Validation Acc: 16.74, Train Acc: 65.96
+Epoch: [2/10], Step: [301/625], Validation Acc: 15.1, Train Acc: 65.77
+Epoch: [2/10], Step: [401/625], Validation Acc: 30.74, Train Acc: 67.86
+Epoch: [2/10], Step: [501/625], Validation Acc: 14.94, Train Acc: 65.895
+Epoch: [2/10], Step: [601/625], Validation Acc: 18.18, Train Acc: 66.57
+Average accuracy is17.78
+Epoch: [3/10], Step: [101/625], Validation Acc: 26.34, Train Acc: 67.955
+Epoch: [3/10], Step: [201/625], Validation Acc: 21.72, Train Acc: 67.145
+Epoch: [3/10], Step: [301/625], Validation Acc: 28.54, Train Acc: 68.34
+Epoch: [3/10], Step: [401/625], Validation Acc: 23.1, Train Acc: 67.615
+Epoch: [3/10], Step: [501/625], Validation Acc: 33.02, Train Acc: 69.075
+Epoch: [3/10], Step: [601/625], Validation Acc: 27.58, Train Acc: 68.45
+Average accuracy is26.7166666667
+Epoch: [4/10], Step: [101/625], Validation Acc: 35.04, Train Acc: 69.43
+Epoch: [4/10], Step: [201/625], Validation Acc: 31.22, Train Acc: 69.135
+Epoch: [4/10], Step: [301/625], Validation Acc: 30.14, Train Acc: 68.995
+Epoch: [4/10], Step: [401/625], Validation Acc: 31.6, Train Acc: 69.305
+Epoch: [4/10], Step: [501/625], Validation Acc: 45.94, Train Acc: 69.98
+Epoch: [4/10], Step: [601/625], Validation Acc: 25.52, Train Acc: 68.415
+Average accuracy is33.2433333333
+Epoch: [5/10], Step: [101/625], Validation Acc: 29.66, Train Acc: 69.08
+Epoch: [5/10], Step: [201/625], Validation Acc: 42.36, Train Acc: 70.105
+Epoch: [5/10], Step: [301/625], Validation Acc: 23.12, Train Acc: 67.975
+Epoch: [5/10], Step: [401/625], Validation Acc: 25.4, Train Acc: 68.51
+Epoch: [5/10], Step: [501/625], Validation Acc: 31.24, Train Acc: 69.48
+Epoch: [5/10], Step: [601/625], Validation Acc: 35.44, Train Acc: 70.16
+Average accuracy is31.2033333333
+Epoch: [6/10], Step: [101/625], Validation Acc: 32.8, Train Acc: 69.94
+Epoch: [6/10], Step: [201/625], Validation Acc: 34.36, Train Acc: 70.16
+Epoch: [6/10], Step: [301/625], Validation Acc: 44.16, Train Acc: 70.68
+Epoch: [6/10], Step: [401/625], Validation Acc: 38.9, Train Acc: 70.635
+Epoch: [6/10], Step: [501/625], Validation Acc: 39.96, Train Acc: 70.845
+Epoch: [6/10], Step: [601/625], Validation Acc: 31.96, Train Acc: 69.885
+Average accuracy is37.0233333333
+Epoch: [7/10], Step: [101/625], Validation Acc: 32.4, Train Acc: 70.065
+Epoch: [7/10], Step: [201/625], Validation Acc: 52.32, Train Acc: 70.94
+Epoch: [7/10], Step: [301/625], Validation Acc: 40.26, Train Acc: 71.105
+Epoch: [7/10], Step: [401/625], Validation Acc: 43.38, Train Acc: 71.145
+Epoch: [7/10], Step: [501/625], Validation Acc: 44.28, Train Acc: 71.26
+Epoch: [7/10], Step: [601/625], Validation Acc: 35.72, Train Acc: 70.795
+Average accuracy is41.3933333333
+Epoch: [8/10], Step: [101/625], Validation Acc: 32.74, Train Acc: 70.255
+Epoch: [8/10], Step: [201/625], Validation Acc: 36.5, Train Acc: 70.925
+Epoch: [8/10], Step: [301/625], Validation Acc: 39.82, Train Acc: 71.425
+Epoch: [8/10], Step: [401/625], Validation Acc: 34.26, Train Acc: 70.72
+Epoch: [8/10], Step: [501/625], Validation Acc: 40.02, Train Acc: 71.54
+Epoch: [8/10], Step: [601/625], Validation Acc: 33.46, Train Acc: 70.655
+Average accuracy is36.1333333333
+Epoch: [9/10], Step: [101/625], Validation Acc: 41.6, Train Acc: 71.7
+Epoch: [9/10], Step: [201/625], Validation Acc: 45.04, Train Acc: 71.76
+Epoch: [9/10], Step: [301/625], Validation Acc: 40.42, Train Acc: 71.8
+Epoch: [9/10], Step: [401/625], Validation Acc: 40.26, Train Acc: 71.82
+Epoch: [9/10], Step: [501/625], Validation Acc: 46.68, Train Acc: 72.045
+Epoch: [9/10], Step: [601/625], Validation Acc: 44.32, Train Acc: 72.025
+Average accuracy is43.0533333333
+Epoch: [10/10], Step: [101/625], Validation Acc: 47.44, Train Acc: 72.14
+Epoch: [10/10], Step: [201/625], Validation Acc: 41.88, Train Acc: 71.935
+Epoch: [10/10], Step: [301/625], Validation Acc: 56.6, Train Acc: 72.035
+Epoch: [10/10], Step: [401/625], Validation Acc: 38.76, Train Acc: 71.82
+Epoch: [10/10], Step: [501/625], Validation Acc: 44.74, Train Acc: 72.265
+Epoch: [10/10], Step: [601/625], Validation Acc: 42.74, Train Acc: 72.285
